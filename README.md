@@ -1,3 +1,3 @@
 # Java
-Java Tic Tac Toe
-Java shipping classes
+Java Tic Tac Toe</br>
+Java Shipping Classes
